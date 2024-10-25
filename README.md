@@ -1,7 +1,5 @@
 # Learn Typography by Building a Nutrition Label
 
-![FreeCodeCamp Logo](https://cdn.freecodecamp.org/platform/freecodecamp/logo.svg)
-
 ## 📚 Sobre o Curso
 
 **"Learn Typography by Building a Nutrition Label"** é um curso interativo oferecido pela [freeCodeCamp](https://www.freecodecamp.org/), projetado para ensinar os fundamentos da tipografia através da criação de um rótulo nutricional estilizado. Este curso é ideal para designers, desenvolvedores front-end e entusiastas que desejam aprimorar suas habilidades em tipografia e design responsivo.
